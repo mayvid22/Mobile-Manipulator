@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20240621-1107-Experimental"
+	Name="dagawd-HP-Pavilion-Laptop-15-eg2xxx"
+	Generator="ctest-3.22.1"
+	CompilerName="/usr/bin/c++"
+	CompilerVersion="11.4.0"
+	OSName="Linux"
+	Hostname="dagawd-HP-Pavilion-Laptop-15-eg2xxx"
+	OSRelease="6.5.0-35-generic"
+	OSVersion="#35~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Tue May  7 09:00:52 UTC 2"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="154"
+	ProcessorCacheSize="18432"
+	NumberOfLogicalCPU="16"
+	NumberOfPhysicalCPU="12"
+	TotalVirtualMemory="2047"
+	TotalPhysicalMemory="15652"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="3663.42"
+	>
+	<Testing>
+		<StartDateTime>Jun 21 16:37 +0530</StartDateTime>
+		<StartTestTime>1718968049</StartTestTime>
+		<TestList/>
+		<EndDateTime>Jun 21 16:37 +0530</EndDateTime>
+		<EndTestTime>1718968049</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

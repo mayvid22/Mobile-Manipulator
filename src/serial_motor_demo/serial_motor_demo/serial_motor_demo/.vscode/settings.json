@@ -1,0 +1,20 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/dagawd/serial_drive_gui/build/serial_motor_demo",
+        "/home/dagawd/serial_drive_gui/install/serial_motor_demo/lib/python3.10/site-packages",
+        "/home/dagawd/serial_drive_gui/install/serial_motor_demo_msgs/local/lib/python3.10/dist-packages",
+        "/home/dagawd/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages",
+        "/home/dagawd/ros2_ws/install/gazebo_controller/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/dagawd/serial_drive_gui/build/serial_motor_demo",
+        "/home/dagawd/serial_drive_gui/install/serial_motor_demo/lib/python3.10/site-packages",
+        "/home/dagawd/serial_drive_gui/install/serial_motor_demo_msgs/local/lib/python3.10/dist-packages",
+        "/home/dagawd/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages",
+        "/home/dagawd/ros2_ws/install/gazebo_controller/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

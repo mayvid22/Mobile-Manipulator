@@ -1,0 +1,9 @@
+/home/dagawd/ws_main/src/main_bot/build/CMakeFiles/uninstall.dir
+/home/dagawd/ws_main/src/main_bot/build/CMakeFiles/main_bot_uninstall.dir
+/home/dagawd/ws_main/src/main_bot/build/CMakeFiles/test.dir
+/home/dagawd/ws_main/src/main_bot/build/CMakeFiles/edit_cache.dir
+/home/dagawd/ws_main/src/main_bot/build/CMakeFiles/rebuild_cache.dir
+/home/dagawd/ws_main/src/main_bot/build/CMakeFiles/list_install_components.dir
+/home/dagawd/ws_main/src/main_bot/build/CMakeFiles/install.dir
+/home/dagawd/ws_main/src/main_bot/build/CMakeFiles/install/local.dir
+/home/dagawd/ws_main/src/main_bot/build/CMakeFiles/install/strip.dir

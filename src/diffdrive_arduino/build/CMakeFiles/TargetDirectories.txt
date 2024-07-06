@@ -1,0 +1,10 @@
+/home/dagawd/control_ws/src/diffdrive_arduino/build/CMakeFiles/uninstall.dir
+/home/dagawd/control_ws/src/diffdrive_arduino/build/CMakeFiles/diffdrive_arduino_uninstall.dir
+/home/dagawd/control_ws/src/diffdrive_arduino/build/CMakeFiles/diffdrive_arduino.dir
+/home/dagawd/control_ws/src/diffdrive_arduino/build/CMakeFiles/test.dir
+/home/dagawd/control_ws/src/diffdrive_arduino/build/CMakeFiles/edit_cache.dir
+/home/dagawd/control_ws/src/diffdrive_arduino/build/CMakeFiles/rebuild_cache.dir
+/home/dagawd/control_ws/src/diffdrive_arduino/build/CMakeFiles/list_install_components.dir
+/home/dagawd/control_ws/src/diffdrive_arduino/build/CMakeFiles/install.dir
+/home/dagawd/control_ws/src/diffdrive_arduino/build/CMakeFiles/install/local.dir
+/home/dagawd/control_ws/src/diffdrive_arduino/build/CMakeFiles/install/strip.dir
